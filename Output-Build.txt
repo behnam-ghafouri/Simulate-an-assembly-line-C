@@ -1,0 +1,9 @@
+﻿1>------ Build started: Project: MS3, Configuration: Debug Win32 ------
+1>AssemblyLine.cpp
+1>CustomerOrder.cpp
+1>LineManager.cpp
+1>Station.cpp
+1>project.cpp
+1>Generating Code...
+1>MS3.vcxproj -> C:\Users\behna\Desktop\MS3\Debug\MS3.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
