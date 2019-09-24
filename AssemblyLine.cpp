@@ -1,7 +1,4 @@
-// Assembly Line Project
-// AssemblyLine.cpp
-// Elliott Coleshill, Chris Szalwinski
-// 2019/02/17
+
 
 #include <iostream>
 #include <fstream>
